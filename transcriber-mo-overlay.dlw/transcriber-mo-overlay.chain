@@ -4,6 +4,6 @@ slug  : transcriber-mo-overlay
 seal  : 6558ea5bdd6fc5426bbaad2c77fd217c436fe940707e3fcdf6962dc9c22eb840
 prev  : 83586fb29bcb3315457ad0b2ad582d201e02e75eaca1706831ebcc120923af4e
 link  : 0300f416a0fc078e7a16109d0500ca3ebeafb034fafb74d228621ffd0152938d
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
